@@ -1,9 +1,9 @@
 === SNORDIAN's H5PxAPIkatchu ===
-Contributors: otacke
+Contributors: Bernhard
 Tags: h5p, xapi
 Requires at least: 4.0
-Tested up to: 6.3
-Stable tag: 0.4.13
+Tested up to: 6.3.1
+Stable tag: 0.5.13
 License: MIT
 License URI: https://github.com/otacke/h5pxapikatchu/blob/master/LICENSE
 

@@ -1,13 +1,13 @@
 <?php
 
 /**
- * Plugin Name: SNORDIAN's H5PxAPIkatchu
+ * Plugin Name: Bernhard/SNORDIAN's H5PxAPIkatchu
  * Plugin URI: https://github.com/otacke/h5pxapikatchu
  * Text Domain: H5PXAPIKATCHU
  * Domain Path: /languages
  * Description: Catch and store xAPI statements sent by H5P
- * Version: 0.4.13
- * Author: Oliver Tacke
+ * Version: 0.5.13
+ * Author: Oliver Tacke/Bernhard
  * Author URI: https://www.olivertacke.de
  * License: MIT
  */
